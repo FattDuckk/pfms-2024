@@ -1,0 +1,4 @@
+source;share/a3_submission/local_setup.bash
+source;share/a3_submission/local_setup.dsv
+source;share/a3_submission/local_setup.sh
+source;share/a3_submission/local_setup.zsh

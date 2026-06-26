@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260609-0929-Experimental"
+	Name="BeefyBirb"
+	Generator="ctest-4.2.0"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="BeefyBirb"
+	OSRelease="6.8.0-117-generic"
+	OSVersion="#117~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu May  7 22:17:46 UTC "
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="33"
+	ModelName="AMD Ryzen 7 5800X 8-Core Processor"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="61658"
+	TotalPhysicalMemory="31994"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4624.98"
+	>
+	<Testing>
+		<StartDateTime>Jun 09 19:29 AEST</StartDateTime>
+		<StartTestTime>1780997342</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 09 19:29 AEST</EndDateTime>
+		<EndTestTime>1780997342</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

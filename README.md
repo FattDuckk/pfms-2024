@@ -6,7 +6,7 @@
 
 **Student Name:** Minh Nguyen
 **Student Number:** 13582453
-**Student Email:** Minh-K-Nguyen-3@student.uts.edu.au
+**Student Email:** Minh-K-Nguyen-3@alumni.uts.edu.au
 
 The Grand Tour Project involves the sensing and control of Ackerman and Quadcopter platforms, aiming to navigate the Ackerman through rough terrain with the assistance of the Quadcopter. The project focuses on autonomous control, sensor integration, and ROS2 communication.
 
@@ -30,7 +30,7 @@ Also note: I did my best with advanced mission, but it's not perfect. It works f
 ### Step 1: Clone the repository
 
 ```sh
-git clone https://github.com/41012/pfms-2024a-FattDuckk
+git@github.com:FattDuckk/pfms-2024.git
 ```
 
 ### Step 2: Link to ROS2 workspace and build the project
@@ -186,4 +186,4 @@ Special thanks to Alen Alempijevic for his guidance and support throughout the p
 
 ## Contact
 
-For more information, contact me at Minh.K.Nguyen-3@student.uts.edu.au.
+For more information, contact me at Minh.K.Nguyen-3@alumni.uts.edu.au.

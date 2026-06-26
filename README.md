@@ -22,7 +22,7 @@ Also note: I did my best with advanced mission, but it's not perfect. It works f
 
 ### TSP
 
-![TSP](docs/images/tsp.png)
+![TSP](images/tsp.png)
 <!-- Update this path to wherever tsp.png actually lives in your repo -->
 
 ## Installation and Running
